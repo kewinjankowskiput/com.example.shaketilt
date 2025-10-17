@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/local_scores"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Local Scores"
+            android:textSize="18sp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/online_scores"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Online Scores"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+</ScrollView>

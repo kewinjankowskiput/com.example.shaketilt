@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="480pt"
+    height="480pt"
+    viewBox="0 0 480 480">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#ffd3a9" offset="0" stop-opacity="1"/>
+   <stop stop-color="#ffd600" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0" stop-opacity="1"/>
+   <stop stop-color="#6b6a7b" offset="1" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+<path id="shape0" transform="translate(28.7999975787166, 17.2799985472299)" fill="url(#gradient0)" fill-rule="evenodd" stroke="#666666" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L437.52 104.787L2.88 180.72Z" sodipodi:nodetypes="cccc"/><rect id="shape1" transform="translate(13.6799999394679, 10.0799991525507)" fill="url(#gradient1)" fill-rule="evenodd" stroke="#000000" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel" width="19.44" height="459.840001694899"/>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="480pt"
+    height="480pt"
+    viewBox="0 0 480 480">
+<defs>
+  <radialGradient id="gradient0" gradientUnits="objectBoundingBox" cx="0.5" cy="-0.204646113886237" fx="0.5" fy="0.405973350188902" r="1.4142135623731" spreadMethod="pad">
+   <stop stop-color="#ffffff" offset="0" stop-opacity="1"/>
+   <stop stop-color="#ff1200" offset="0.4402" stop-opacity="1"/>
+   <stop stop-color="#9a2020" offset="0.5606" stop-opacity="1"/>
+   <stop stop-color="#770301" offset="0.6767" stop-opacity="1"/>
+   <stop stop-color="#750506" offset="0.9066" stop-opacity="1"/>
+   <stop stop-color="#ffa518" offset="0.956886" stop-opacity="1"/>
+   <stop stop-color="#fff4d8" offset="1" stop-opacity="1"/>
+  </radialGradient>
+  <linearGradient id="gradient1" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1.4142135623731" y2="0" spreadMethod="pad">
+   <stop stop-color="#689c46" offset="0" stop-opacity="1"/>
+   <stop stop-color="#53741d" offset="0.321738" stop-opacity="1"/>
+   <stop stop-color="#273717" offset="0.632164" stop-opacity="1"/>
+   <stop stop-color="#000a00" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient2" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1.4142135623731" y2="0" spreadMethod="pad">
+   <stop stop-color="#689c46" offset="0" stop-opacity="1"/>
+   <stop stop-color="#53741d" offset="0.321738004684448" stop-opacity="1"/>
+   <stop stop-color="#273717" offset="0.632164001464844" stop-opacity="1"/>
+   <stop stop-color="#000a00" offset="1" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+<rect id="shape0" transform="translate(-122.879998877007, -29.7600004866302)" fill="#77b3fe" fill-rule="evenodd" stroke="#717080" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel" width="630.72" height="564.48"/><circle id="shape1" transform="translate(93.3599972580259, 65.880007238625)" r="98.2799957185896" cx="98.2799957185896" cy="98.2799957185896" fill="url(#gradient0)" fill-rule="evenodd" stroke="#3e3e3e" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel"/><rect id="shape2" transform="matrix(-0.241983649712401 0.970280327159058 -0.970280327159058 -0.241983649712401 236.335945999771 398.54401862516)" fill="url(#gradient1)" fill-rule="evenodd" stroke="#000000" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel" width="348.829606433065" height="400.153254517631"/><rect id="shape0" transform="matrix(-0.0225072425238056 0.999746652407489 -0.999746652407489 -0.0225072425238056 777.90436531056 279.227620267391)" fill="url(#gradient2)" fill-rule="evenodd" stroke="#000000" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel" width="160.393410295609" height="400.153254517631"/><path id="shape3" transform="translate(58.5599977165812, 32.6399987272747)" fill="none" stroke="#ffffff" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M62.4 0L0 78.72" sodipodi:nodetypes="cc"/><path id="shape4" transform="translate(32.6399987272747, 23.9999990641726)" fill="none" stroke="#ffffff" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M37.44 0L0 50.88" sodipodi:nodetypes="cc"/><path id="shape5" transform="translate(282.23998899467, 203.999996724604)" fill="none" stroke="#ffffff" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M58.56 0L0 72" sodipodi:nodetypes="cc"/><path id="shape01" transform="matrix(0.999999983486159 0 0 0.999999983486159 322.079982880092 238.079990716592)" fill="none" stroke="#ffffff" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M44.64 0L0 57.12" sodipodi:nodetypes="cc"/>
+</svg>
