@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370579820331",
+    "project_id": "com-example-shaketilt",
+    "storage_bucket": "com-example-shaketilt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370579820331:android:6a4d6fb8314d0f7241bf6e",
+        "android_client_info": {
+          "package_name": "com.example.shaketilt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwpbV_xM8P7OBabJZdviXyWRVnHsDh0yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
